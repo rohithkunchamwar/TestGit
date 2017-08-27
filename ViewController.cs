@@ -13,6 +13,10 @@ namespace Test
 			AlertCenter.Default.PostMessage("Knock Knock!", "Who's there?");
 
 			AlertCenter.Default.PostMessage("Knock Knock!", "Who's there?");
+
+			AlertCenter.Default.PostMessage("Knock Knock!", "Who's there?");
+
+			AlertCenter.Default.PostMessage("Knock Knock!", "Who's there?");
 			// Note: this .ctor should not contain any initialization logic.
 		}
 
